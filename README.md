@@ -1,6 +1,6 @@
 # Commission Audit File Classifier
 
-Classifies commercial real estate documents for commission audits. Extracts text from PDFs (including scanned docs via OCR), sends to Claude API for classification, then organizes files into deal folders.
+Classifies 8,700+ commercial real estate documents across 154 transactions for commission audits. Extracts text from PDFs (including scanned docs via OCR), sends to Claude API for classification, then organizes files into deal folders.
 
 ## How it works
 
